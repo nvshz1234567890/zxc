@@ -1,0 +1,9 @@
+{
+  "BOT_TOKEN": "93e2eadca913ee91defefb9e994f49360e8013ca4e1afc63375ec1c891ccf6f93c5b5c590f78f302ce364",
+  "COOLDOWN": 60,
+  "ADMINS": [626727521, 615632430],
+  "add": ["+хейт", "+[tqn", "+hate"],
+  "del": ["-хейт", "-[tqn", "-hate"],
+  "con": ["кф", "ra"],
+  "commands": ["+хейт", "+[tqn", "+hate", "-хейт", "-[tqn", "-hate"]
+}
